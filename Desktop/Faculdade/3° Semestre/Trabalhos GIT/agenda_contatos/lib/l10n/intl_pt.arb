@@ -1,0 +1,14 @@
+{
+  "contatos": "Contatos",
+  "Ligar": "Ligar",
+  "Editar" : "Editar",
+  "Excluir": "Excluir",
+
+  "NovoContato": "Novo Contato",
+  "Nome": "Nome",
+  "Telefone": "Telefone",
+  "Descartar": "Descartar Alterações?",
+  "Sair": "Se sair as alterações serão perdidas.",
+  "Cancelar": "Cancelar",
+  "Sim": "Sim"
+}

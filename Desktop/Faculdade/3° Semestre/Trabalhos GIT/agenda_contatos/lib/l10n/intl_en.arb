@@ -1,0 +1,14 @@
+{
+  "contatos": "Contacts",
+  "Ligar": "To connect",
+  "Editar" : "To Edit",
+  "Excluir": "Delete",
+
+  "NovoContato": "New Contact",
+  "Nome": "Name",
+  "Telefone": "Phone",
+  "Descartar": "Discard Changes?",
+  "Sair": "If you leave, the changes will be lost.",
+  "Cancelar": "Cancel",
+  "Sim": "Yes"
+}
